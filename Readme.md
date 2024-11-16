@@ -1,4 +1,4 @@
-# Python Automation for Data Managers using Python
+# Automation of Tasks by Data Managers using Python
 
 - Data Types
   - Strings
