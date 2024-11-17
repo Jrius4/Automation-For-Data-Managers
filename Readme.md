@@ -9,3 +9,4 @@
   - Lists
   - Dictionaries
 - Control Flow
+- Functions
