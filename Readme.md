@@ -3,10 +3,7 @@
 ## Breakdown
 
 - Data Types
-  - Strings
-  - Integers
-  - Floats
-  - Lists
-  - Dictionaries
 - Control Flow
 - Functions
+- OOP
+- Dataclasses
